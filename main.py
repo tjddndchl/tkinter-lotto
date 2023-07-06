@@ -1,8 +1,9 @@
-gimport tkinter
+import tkinter
 import tkinter.font
 import random
 
-print("화면에 로또버튼추가 로또번호확인기능1231231")
+#충돌이나서 일단 임시로 수정함
+print("화면에 로또버튼추가 로또번호확인기능일단수정")
 
 
 
