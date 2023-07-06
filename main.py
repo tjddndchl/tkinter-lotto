@@ -2,7 +2,7 @@ import tkinter
 import tkinter.font
 import random
 
-print("화면에 로또버튼추가 로또번호확인기능")
+print("화면에 로또버튼추가 로또번호확인기능%%%%")
 
 
 
